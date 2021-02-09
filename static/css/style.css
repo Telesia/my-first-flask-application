@@ -7,3 +7,10 @@
     width: 50%;
 
 }
+
+.flashes {
+    font: uppercase;
+    color: #fafafa;
+    background-color: #800020;
+    letter-spacing: 0.5rem;
+}
